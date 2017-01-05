@@ -6,4 +6,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|461|[Hamming Distance](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/HammingDistance/HammingDistance.cpp)|Easy|
