@@ -25,8 +25,8 @@ public:
 int main() {
 	Solution hd1;
 	int x1, y1;
-	cout << "please input two integers: ";
+	cout << "please input two integers: " << endl;
 	cin >> x1 >> y1;
-	cout << "the hamming distance between two numbers is: ";
-	cout << hd1.hammingDistance(x1, y1) << endl;;
+	cout << "hamming distance is: ";
+	cout << hd1.hammingDistance(x1, y1) << endl;
 }
