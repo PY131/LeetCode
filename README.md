@@ -6,4 +6,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/hamming_distance/hamming_distance.cpp)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/461_hamming_distance/)|Easy|
