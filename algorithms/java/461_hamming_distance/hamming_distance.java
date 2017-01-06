@@ -6,7 +6,7 @@ public class hamming_distance {
         int ham_dis;
         int z = x ^ y; 
         for(ham_dis=0; z!=0; z=z>>1){
-            ham_dis += z & 1;
+        	if(z%2 != 0) ham_dis++;
         }
         return ham_dis;
     }
@@ -20,6 +20,7 @@ public class hamming_distance {
 		x1 = sc1.nextInt();
 		x2 = sc1.nextInt();
 		System.out.printf("hamming distance is: %d", hd1.hammingDistance(x1, x2));
+		sc1.close();
 	}
 
 }
