@@ -1,4 +1,4 @@
-# LeetCode
+136_single_number# LeetCode
 -----
   My answers to LeetCode OJ Problems:
 	
@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./algorithms/cpp/476_number_complement/)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./algorithms/cpp/448_find_all_numbers/)|Easy|
