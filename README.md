@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./algorithms/cpp/476_number_complement/)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
