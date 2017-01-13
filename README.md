@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/389_find_the_difference/)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/cpp/104_maximum_depth_of_binary_tree/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/)|Easy|
