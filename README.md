@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/226_invert_binary_tree/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./algorithms/cpp/258_add_digits/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/389_find_the_difference/)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/cpp/104_maximum_depth_of_binary_tree/)|Easy|
