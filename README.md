@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./algorithms/cpp/453_minimum_moves_to_equal_array_elements/)|Easy|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/419_battleships_in_a_board/)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/cpp/455_assign_cookies/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/)|Easy|
