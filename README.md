@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/419_battleships_in_a_board/)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/cpp/455_assign_cookies/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/226_invert_binary_tree/)|Easy|
