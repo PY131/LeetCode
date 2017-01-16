@@ -20,8 +20,8 @@ public:
     	 * at first: sort the vector.
     	 * then: compare them from small to big in sequence.
     	 */
-    	std::sort (g.begin(), g.end());
-    	std::sort (s.begin(), s.end());
+    	sort(g.begin(), g.end());
+    	sort(s.begin(), s.end());
 
     	for(vector<int>::size_type i = 0, j = 0; i < g.size() && j < s.size(); ){
     		if(s[j] >= g[i]){
