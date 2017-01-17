@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/383_ransom_note/)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./algorithms/cpp/453_minimum_moves_to_equal_array_elements/)|Easy|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/419_battleships_in_a_board/)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/cpp/455_assign_cookies/)|Easy|
