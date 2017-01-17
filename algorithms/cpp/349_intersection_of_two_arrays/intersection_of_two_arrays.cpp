@@ -14,9 +14,9 @@ using namespace std;
 
 /*
  * using <unordered_set> LIB to eliminate repeat number.
- * fun1:
- * 		count(): check whether exists in the vector
- *		erase(): remove the checked items
+ * fun:
+ * 	count(): check whether exists in the vector
+ *	erase(): remove the checked items
  */
 class Solution {
 public:
