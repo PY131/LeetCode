@@ -17,7 +17,7 @@ using namespace std;
  * idea: using recursive for sum
  * synopsis:
  *   recursing assumption:
- *     parameter isn's a left leaf node
+ *     parameter isn's a leaf node
  *   if:
  *     a node's child node also isn't leaf node, just recursion.
  *   else:
