@@ -1,4 +1,4 @@
-136_single_number# LeetCode
+# LeetCode
 -----
   My answers to LeetCode OJ Problems:
 	
