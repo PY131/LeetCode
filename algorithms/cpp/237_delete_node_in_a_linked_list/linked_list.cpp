@@ -1,8 +1,8 @@
 /*
  * linked_list.cpp
  *
- *  Created on: 2017Äê1ÔÂ18ÈÕ
- *      Author: Peng
+ *  Created on: 2017Ã„Ãª1Ã”Ã‚18ÃˆÃ•
+ *      Author: 
  */
 
 #include "linked_list.h"
