@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./algorithms/cpp/237_delete_node_in_a_linked_list/)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./algorithms/cpp/404_sum_of_left_leaves/)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/383_ransom_note/)|Easy|
