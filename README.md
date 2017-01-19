@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/cpp/100_same_tree/)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/387_first_unique_character_in_a_string/)|Easy|
