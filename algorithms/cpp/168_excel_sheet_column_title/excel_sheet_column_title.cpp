@@ -29,7 +29,7 @@ public:
 
 /************************************************************
  * Solution2: consider using while loop
- * refer to: http://www.cplusplus.com/reference/string/string/operator=/
+ * refer to: http://www.cplusplus.com/reference/string/string/operator+/
  *************************************************************/
 class Solution2 {
 public:
