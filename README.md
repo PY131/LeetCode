@@ -6,6 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./algorithms/cpp/242_valid_anagram/)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/cpp/100_same_tree/)|Easy|
