@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./algorithms/cpp/401_binary_watch/)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/cpp/217_contains_duplicate/)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/409_longest_palindrome/)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
