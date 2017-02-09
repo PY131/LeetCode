@@ -78,5 +78,5 @@ int main() {
     cout << s2.containsDuplicate(nums) << endl; // prints
     cout << s3.containsDuplicate(nums) << endl; // prints
 
-	return 0;
+    return 0;
 }
