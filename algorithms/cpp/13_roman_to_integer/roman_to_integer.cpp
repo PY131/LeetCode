@@ -82,7 +82,7 @@ int main() {
 
     Solution1 s1;
     Solution1 s2;
-	cout << s1.romanToInt(s) << endl;
+    cout << s1.romanToInt(s) << endl;
     cout << s2.romanToInt(s) << endl;
 
 	return 0;
