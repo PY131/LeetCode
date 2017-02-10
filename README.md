@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/cpp/13_roman_to_integer/)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./algorithms/cpp/401_binary_watch/)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/cpp/217_contains_duplicate/)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/409_longest_palindrome/)|Easy|
