@@ -85,5 +85,5 @@ int main() {
     cout << s1.romanToInt(s) << endl;
     cout << s2.romanToInt(s) << endl;
 
-	return 0;
+    return 0;
 }
