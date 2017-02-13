@@ -15,7 +15,7 @@ using namespace std;
  * Solution 1:
  *     assume that missing one is x.
  *     st: the completed array is: nums U {x}, whose sum is n*(n-1)/2, (n = lenght)
- *     st: so x = sum_of(nums U {x}) - sum_of(nums).
+ *     st: x = sum_of(nums U {x}) - sum_of(nums).
  * Complexity:
  *     time: O(N);
  *     space: 1;
@@ -82,9 +82,9 @@ int main() {
     Solution1 s1;
     Solution2 s2;
     Solution3 s3;
-	cout << s1.missingNumber(nums) << endl;
+    cout << s1.missingNumber(nums) << endl;
     cout << s2.missingNumber(nums) << endl;
     cout << s3.missingNumber(nums) << endl;
 
-	return 0;
+    return 0;
 }
