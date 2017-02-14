@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/268_missing_number/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/cpp/13_roman_to_integer/)|Easy|
