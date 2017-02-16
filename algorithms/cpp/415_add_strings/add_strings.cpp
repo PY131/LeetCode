@@ -33,6 +33,6 @@ public:
 int main() {
     Solution s1;
     string num1 = "9", num2 = "99";
-	cout << s1.addStrings(num1, num2) << endl; // prints
-	return 0;
+    cout << s1.addStrings(num1, num2) << endl; // prints
+    return 0;
 }
