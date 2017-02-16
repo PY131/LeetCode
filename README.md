@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [C++](./algorithms/cpp/447_number_of_boomerangs/)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/268_missing_number/)|Easy|
