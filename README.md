@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/405_convert_a_number_to_hexadecimal/)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/cpp/108_convert_sorted_array_to_binary_search_tree/)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [C++](./algorithms/cpp/447_number_of_boomerangs/)|Easy|
