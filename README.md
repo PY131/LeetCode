@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./algorithms/cpp/496_next_greater_element_I/)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [C++](./algorithms/cpp/500_keyboard_row/)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/)|Easy|
