@@ -8,7 +8,6 @@
 
 #include <iostream>
 #include <vector>
-#include <unordered_map>  //for solution 2
 #include <stack>  //for solution 2
 using namespace std;
 
