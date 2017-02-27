@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [C++](./algorithms/cpp/503_next_greater_element_II/)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./algorithms/cpp/496_next_greater_element_I/)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [C++](./algorithms/cpp/500_keyboard_row/)|Easy|
