@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|231|[Power of Two](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/231_power_of_two/)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501_find_mode_in_binary_search_tree/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [C++](./algorithms/cpp/503_next_greater_element_II/)|Medium|
