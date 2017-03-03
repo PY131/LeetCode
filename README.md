@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./algorithms/java/231_power_of_two/)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501_find_mode_in_binary_search_tree/)|Easy|
