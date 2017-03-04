@@ -13,7 +13,7 @@ public class maximum_subarray {
 
     /**
      * Analysis:
-     *      it is seems like an dynamic optimize problem(DP);
+     *      it seems like a dynamic optimization problem(DP);
      *      so, we need to find out the state transition.
      * Method:
      *      define the maxSum[i] is the max Sum within nums[0] ~ nums[i]
