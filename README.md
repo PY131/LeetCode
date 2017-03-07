@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./algorithms/java/112_path_sum/)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459_repeated_substring_pattern/)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209_minimum_size_subarray_sum/)|Medium|
