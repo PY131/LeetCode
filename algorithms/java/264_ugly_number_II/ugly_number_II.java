@@ -82,21 +82,21 @@ public class ugly_number_II {
         int[] ugly_num = new int[n];
         ugly_num[0] = 1;  
         
-        int pointer2 = 0;  //mapping the L1 to the array
-        int pointer3 = 0;  //mapping the L2 to the array
-        int pointer5 = 0;  //mapping the L3 to the array
+        int index2 = 0;  //mapping the L1 to the array
+        int index3 = 0;  //mapping the L2 to the array
+        int index5 = 0;  //mapping the L3 to the array
         
         for(int i = 1, min = 0; i < n; i++){
-            min = Math.min( ugly_num[pointer2] * 2, 
-                            Math.min( ugly_num[pointer3] * 3, 
-                                      ugly_num[pointer5] * 5 ) );    
+            min = Math.min( ugly_num[index2] * 2, 
+                            Math.min( ugly_num[index3] * 3, 
+                                      ugly_num[index5] * 5 ) );    
             
             //remove the same number of n-th
-            if(min == ugly_num[pointer2] * 2) pointer2++ ;    
-            if(min == ugly_num[pointer3] * 3) pointer3++ ;
-            if(min == ugly_num[pointer5] * 5) pointer5++ ;
-                
-            ugly_num[i] = min;
+            if(min == ugly_num[index2] * 2) index2++ ;    
+            if(min == ugly_num[index3] * 3) index3++ ;
+            if(min == ugly_num[index5] * 5) index5++ ;
+            
+            ugl5_num[i] = min;
         }
         return ugly_num[n-1];
     }
