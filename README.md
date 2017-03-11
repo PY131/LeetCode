@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](./algorithms/java/264_ugly_number_II/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./algorithms/java/263_ugly_number/)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./algorithms/java/437_path_sum_III/)|Easy|
