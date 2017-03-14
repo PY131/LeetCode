@@ -6,6 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./algorithms/java/107_binary_tree_level_order_traversal_II/)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102_binary_tree_level_order_traversal/)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](./algorithms/java/264_ugly_number_II/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./algorithms/java/263_ugly_number/)|Easy|
