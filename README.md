@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./algorithms/java/110_balanced_binary_tree/)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./algorithms/java/543_diameter_of_binary_tree/)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235_lowest_common_ancestor_of_a_binary_search_tree/)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/)|Medium|
