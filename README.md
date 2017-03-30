@@ -6,6 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./algorithms/java/111_minimum_depth_of_binary_tree/)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94_binary_tree_inorder_traversal/)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./algorithms/java/110_balanced_binary_tree/)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./algorithms/java/543_diameter_of_binary_tree/)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235_lowest_common_ancestor_of_a_binary_search_tree/)|Easy|
