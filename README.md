@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257_binary_tree_paths/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./algorithms/java/111_minimum_depth_of_binary_tree/)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94_binary_tree_inorder_traversal/)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./algorithms/java/110_balanced_binary_tree/)|Easy|
