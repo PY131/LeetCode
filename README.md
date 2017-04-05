@@ -6,6 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/)|Hard|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257_binary_tree_paths/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./algorithms/java/111_minimum_depth_of_binary_tree/)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94_binary_tree_inorder_traversal/)|Medium|
