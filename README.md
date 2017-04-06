@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./algorithms/java/96_unique_binary_search_trees/)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257_binary_tree_paths/)|Easy|
