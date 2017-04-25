@@ -1,7 +1,3 @@
-import java.security.cert.CertPathChecker;
-
-import javax.xml.transform.Templates;
-
 import LinkedList.SinglyLinkedList;
 import LinkedList.SinglyLinkedList.ListNode;
 
