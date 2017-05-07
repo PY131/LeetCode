@@ -65,7 +65,7 @@ public class array_partition_I {
      *      
      * @Complexity
      *      time:   O(N)
-     *      space:  O(N)
+     *      space:  fixed
      */
     public static int arrayPairSum_2(int[] nums) {
         int sum_max = 0;
