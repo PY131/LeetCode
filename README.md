@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./algorithms/java/566_reshape_the_matrix/)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/java/561_array_partition_I/)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/)|Medium|
