@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Java](./algorithms/java/537_complex_number_multiplication/)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./algorithms/java/575_distribute_candies/)|Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./algorithms/java/566_reshape_the_matrix/)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/java/561_array_partition_I/)|Easy|
