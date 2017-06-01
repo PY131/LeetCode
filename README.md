@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./algorithms/java/167_two_Sum_II/)|Easy|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [Java](./algorithms/java/537_complex_number_multiplication/)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./algorithms/java/575_distribute_candies/)|Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./algorithms/java/566_reshape_the_matrix/)|Easy|
