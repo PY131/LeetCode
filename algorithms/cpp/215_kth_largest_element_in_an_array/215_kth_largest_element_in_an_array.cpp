@@ -27,6 +27,8 @@ public:
      *      k: int, order
      * @return:
      *      int, the k_th largest element
+     * @complexity:
+     *      time: O(n*lgn).
      **********************************************************/
     int findKthLargest_1(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end());
@@ -46,7 +48,7 @@ public:
      *      int, the k_th largest element
      *
      * @complexity:
-     *      time: O(n*lgn)
+     *      time: O(k*n), best O(n), worst O(n^2).
      **********************************************************/
     int findKthLargest_2(vector<int>& nums, int k) {
         int left = 0, right = nums.size() - 1;
@@ -73,9 +75,6 @@ public:
      *      right:int, end index of sub-array. lenght - 1.
      * @return:
      *      int, the j's index after partition
-     *
-     * @complexity:
-     *      time: O(k*n), best O(n), worst O(n^2)
      **********************************************************/
     int partition(vector<int>& nums, int left, int right) {
         int pivot = nums[left];
@@ -106,7 +105,7 @@ public:
      *      int, the k_th largest element
      *
      * @complexity:
-     *      time: O(nlgn)
+     *      time: O(nlgn), we can just build max_head with size k.
      **********************************************************/
     int findKthLargest_3(vector<int>& nums, int k) {
         priority_queue<int> pq(nums.begin(), nums.end());
@@ -136,5 +135,5 @@ int main() {
 
     print_vec(nums);
     cout << "k_th largest element is: " << k_th << endl;
-	return 0;
+    return 0;
 }
