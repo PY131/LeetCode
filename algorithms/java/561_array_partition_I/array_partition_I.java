@@ -38,7 +38,6 @@ public class array_partition_I {
      *      
      * @Complexity using rapid sorting
      *      time:   O(NlgN)
-     *      space:  O(NlgN)
      */
     public static int arrayPairSum_1(int[] nums) {
         int sum_max = 0;
