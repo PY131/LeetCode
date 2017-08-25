@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/215_kth_largest_element_in_an_array/215_kth_largest_element_in_an_array.cpp)|Medium|
