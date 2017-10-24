@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
