@@ -31,7 +31,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235_lowest_common_ancestor_of_a_binary_search_tree/)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./algorithms/java/530_minimum_absolute_difference_in_BST/)|Easy|
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](./algorithms/java/342_power_of_four/)|Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./algorithms/java/107_binary_tree_level_order_traversal_II/)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102_binary_tree_level_order_traversal/)|Medium|
@@ -55,7 +55,7 @@
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [C++](./algorithms/cpp/500_keyboard_row/)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/), [Java](./algorithms/java/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.java)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/405_convert_a_number_to_hexadecimal/)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/cpp/108_convert_sorted_array_to_binary_search_tree/)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
