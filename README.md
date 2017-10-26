@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./algorithms/java/279_perfect_squares/perfect_squares.java)|Medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
