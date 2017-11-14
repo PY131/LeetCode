@@ -59,7 +59,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/), [Java](./algorithms/java/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.java)|Easy|
-|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/405_convert_a_number_to_hexadecimal/)|Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/405_convert_a_number_to_hexadecimal/), [Python](./algorithms/python/405_convert_a_number_to_hexadecimal/convert_a_number_to_hexadecimal.py)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/cpp/108_convert_sorted_array_to_binary_search_tree/)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [C++](./algorithms/cpp/447_number_of_boomerangs/)|Easy|
