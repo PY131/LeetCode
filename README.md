@@ -24,7 +24,7 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/141_linked_list_cycle/)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](./algorithms/java/442_find_all_duplicates_in_an_array/)|Medium|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./algorithms/java/96_unique_binary_search_trees/)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./algorithms/java/96_unique_binary_search_trees/), [Python](./algorithms/python/96_unique_binary_search_trees/unique_binary_search_trees.py/)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/)|Medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257_binary_tree_paths/)|Easy|
