@@ -6,6 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](./algorithms/python/224_basic_calculator/basic_calculator.py)|Hard|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./algorithms/python/227_basic_calculator_ii/basic_calculator_ii.py)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
