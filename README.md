@@ -6,7 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/python/2_add_two_numbers/add_two_numbers.py)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/python/2_add_two_numbers/add_two_numbers.py)| Medium |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1_two_sum/two_sum.py)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](./algorithms/python/224_basic_calculator/basic_calculator.py)|Hard|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./algorithms/python/227_basic_calculator_ii/basic_calculator_ii.py)|Medium|
