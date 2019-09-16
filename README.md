@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/python/5_longest_palindromic_substring/longest_palindromic_substring.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/python/3_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./algorithms/python/2_add_two_numbers/add_two_numbers.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1_two_sum/two_sum.py)|Easy|
