@@ -100,6 +100,7 @@
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/)|Easy|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./algorithms/python/16_3sum_closest/3sum_closest.py)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [Python](./algorithms/python/15_3sum/3sum.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/cpp/13_roman_to_integer/)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/11_container_with_most_water/container_with_most_water.py)|Medium|
