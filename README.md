@@ -98,6 +98,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Python](./algorithms/python/18_4sum/4sum.py)|Medium|
