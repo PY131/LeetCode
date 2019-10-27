@@ -110,6 +110,7 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./algorithms/python/14_longest_common_prefix/longest_common_prefix.py)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/cpp/13_roman_to_integer/)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./algorithms/python/11_container_with_most_water/container_with_most_water.py)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./algorithms/python/9_palindrome_number/palindrome_number.py)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./algorithms/python/5_longest_palindromic_substring/longest_palindromic_substring.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](./algorithms/python/4_median_of_two_sorted_arrays/median_of_two_sorted_arrays.py)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./algorithms/python/3_longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.py)|Medium|
