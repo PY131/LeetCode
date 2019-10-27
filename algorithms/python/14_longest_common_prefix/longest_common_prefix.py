@@ -19,7 +19,7 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         :thought: 
-            think of previous method, we has wasted some time to those chars that will certainly be removed later
+            think of previous method, we have wasted some time to those chars that will certainly be removed later
             so.
             here we just iterative epoch by epoch,
             1-st: check the 1-st char of each strs
