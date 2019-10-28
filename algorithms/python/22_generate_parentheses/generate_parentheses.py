@@ -16,8 +16,26 @@
 """
 
 class Solution(object):
-    
-    # solution 1 
+
+    def generateParenthesis_2(self, n):
+        """
+        idea: using dp
+            res = '(' + f(p) + ')' + f(q), n = 1 + p + q 
+        """
+        n2lst = {
+            0: [''],
+            1: ['()'],
+        }
+        for m in range(2, n+1):
+            new_lst = []
+            for p in range(m):
+                lst1 = ['(' + l + ')' for l in n2lst[p]]
+                q = m - 1 - p
+                for l2 in n2lst[q]:
+                    new_lst.extend([l1 + l2 for l1 in lst1])
+            n2lst[m] = new_lst
+        return n2lst[n]
+
     def generateParenthesis_1(self, n):
         """
         :idea: using recursion
@@ -56,7 +74,9 @@ if __name__ == '__main__':
     s = Solution()
     n = 3
     print("all possible parenthesis sequences are:")
-    lst = s.generateParenthesis_1(n)
-    print(lst)
-    
+    lst1 = s.generateParenthesis_1(n)
+    lst2 = s.generateParenthesis_2(n)
+    print(lst1)
+    print(lst2)
+
 # - PY131 - #
