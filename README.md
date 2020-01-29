@@ -99,6 +99,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./algorithms/python/31_next_permutation/next_permutation.py)|Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/28_implement_strstr/implement_strstr.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/27_remove_element/remove_element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
