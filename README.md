@@ -104,6 +104,8 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/20_valid_parentheses/valid_parentheses.py)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./algorithms/python/19_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.py)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Python](./algorithms/python/18_4sum/4sum.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./algorithms/python/17_letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.py)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./algorithms/python/16_3sum_closest/3sum_closest.py)|Medium|
