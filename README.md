@@ -4,8 +4,8 @@
 	
   Problem List:
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution | Difficulty | About |
+|---| ----- | -------- | ---------- | --- |
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Java](./algorithms/java/575_distribute_candies/)|Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Java](./algorithms/java/566_reshape_the_matrix/)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Java](./algorithms/java/561_array_partition_I/)|Easy|
@@ -102,8 +102,9 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/28_implement_strstr/implement_strstr.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/27_remove_element/remove_element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/23_merge_k_sorted_lists/merge_k_sorted_lists.py)|Hard| 堆、优先级队列 |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/), [Python](./algorithms/python/21_merge_two_sorted_lists/merge_two_sorted_lists.py)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./algorithms/python/20_valid_parentheses/valid_parentheses.py)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./algorithms/python/19_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.py)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Python](./algorithms/python/18_4sum/4sum.py)|Medium|
