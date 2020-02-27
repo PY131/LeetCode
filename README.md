@@ -63,7 +63,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/cpp/217_contains_duplicate/)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/215_kth_largest_element_in_an_array/215_kth_largest_element_in_an_array.cpp)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209_minimum_size_subarray_sum/)|Medium|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/), [Python](./algorithms/python/206_reverse_linked_list/reverse_linked_list.py)|Easy| 链表 |
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
@@ -102,6 +102,7 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/28_implement_strstr/implement_strstr.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/27_remove_element/remove_element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./algorithms/python/24_swap_nodes_in_pairs/swap_nodes_in_pairs.py)|Medium| 链表 |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/23_merge_k_sorted_lists/merge_k_sorted_lists.py)|Hard| 堆、优先级队列 |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./algorithms/java/21_merge_two_sorted_lists/), [Python](./algorithms/python/21_merge_two_sorted_lists/merge_two_sorted_lists.py)|Easy|
