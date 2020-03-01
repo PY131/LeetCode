@@ -94,6 +94,7 @@
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./algorithms/java/96_unique_binary_search_trees/), [Python](./algorithms/python/96_unique_binary_search_trees/unique_binary_search_trees.py/)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94_binary_tree_inorder_traversal/)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |[Python](./algorithms/python/92_reverse_linked_list_ii/reverse_linked_list_ii.py)|Medium|单链表|
+|86|[Partition List](https://leetcode.com/problems/partition-list/) |[Python](./algorithms/python/86_partition_list/partition_list.py)|Medium|单链表|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|单链表|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
