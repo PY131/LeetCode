@@ -17,10 +17,22 @@ class Solution(object):
 
     def longestPalindrome_2(self, s):
         """
-        :改进1: 
-            回文特点,关于中心轴对称,该轴即可以是1个数字,也可以是两个连续重复数字
-            于是遍历,分别考虑上述两种情况        
+        :采用 force-brute + DP, dp[i][j]->s[i,j]是否是回文
         """
+        n = len(s)
+        dp = [[False for i in range(n)] for j in range(n)]
+        res = ''
+        for m in range(n):  # 潜在字符串长度
+            for i in range(n-m):
+                if m == 0:
+                    dp[i][i] = True
+                elif m == 1:
+                    dp[i][i+m] = (s[i] == s[i+m])
+                else:
+                    dp[i][i+m] = dp[i+1][i+m-1] and s[i] == s[i+m]
+                if dp[i][i+m]:
+                    res = s[i:i+m+1]
+        return res
 
     def longestPalindrome_1(self, s):
         """
@@ -65,7 +77,7 @@ class Solution(object):
 
 
 if __name__ == "__main__":
-    st = 'abcdedcba'
+    st = 'babad'
     s = Solution()
     res = s.longestPalindrome_2(st)
     print res
