@@ -42,7 +42,6 @@ class Solution(object):
                             v       v
                             i       j -> end
         """
-        if len(nums) < 2: return len(nums)
         i = 0
         j = 1
         while j < len(nums):

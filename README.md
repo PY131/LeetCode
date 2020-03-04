@@ -69,6 +69,7 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/python/203_remove_linked_list_elements/remove_linked_list_elements.py)|Easy| 单链表 |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/python/189_rotate_array/rotate_array.com)|Easy|数组|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/), [Python](./algorithms/python/171_excel_sheet_column_number/excel_sheet_column_number.py) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
@@ -106,7 +107,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./algorithms/python/31_next_permutation/next_permutation.py)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/28_implement_strstr/implement_strstr.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/27_remove_element/remove_element.py)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./algorithms/python/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.py)|Easy|数组|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./algorithms/python/24_swap_nodes_in_pairs/swap_nodes_in_pairs.py)|Medium| 单链表 |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./algorithms/python/23_merge_k_sorted_lists/merge_k_sorted_lists.py)|Hard| 堆、优先级队列 |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./algorithms/python/22_generate_parentheses/generate_parentheses.py)|Medium|
