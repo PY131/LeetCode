@@ -81,7 +81,8 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/141_linked_list_cycle/)|Easy|
-|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/)|Easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](./algorithms/python/137_single_number_ii/single_number_ii.py)|Medium|数组, 位运算|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/), [Python](./algorithms/python/136_single_number/single_number.py)|Easy|数组,  位运算|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/), [Python](./algorithms/python/122_best_time_to_buy_and_sell_stock_II/best_time_to_buy_and_sell_stock_ii.py)|Easy|动态规划|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/), [Java](./algorithms/java/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.java), [Python](./algorithms/python/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.py)|Easy|动态规划|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./algorithms/java/113_path_sum_II/)|Medium|
