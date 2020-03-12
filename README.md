@@ -101,9 +101,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|单链表|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
-
 |66|[Plus One](https://leetcode.com/problems/plus-one//) |[Python](./algorithms/python/66_plus_one//plus_one.py)|Easy|数组|
-
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
