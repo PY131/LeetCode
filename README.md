@@ -37,8 +37,8 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/387_first_unique_character_in_a_string/)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/383_ransom_note/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/)|Easy|
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/), [Python](./algorithms/python/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.py)|Easy|数组|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/), [Python](./algorithms/python/349_intersection_of_two_arrays/intersection_of_two_arrays.py)|Easy|数组|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/344_reverse_string/)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
