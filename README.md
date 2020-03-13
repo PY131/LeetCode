@@ -46,7 +46,7 @@
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/), [Python](./algorithms/python/283_move_zeroes/move_zeroes.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./algorithms/java/279_perfect_squares/perfect_squares.java)|Medium|
 |271|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./algorithms/python/271_contains_duplicate/contains_duplicate.py)|Easy||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/268_missing_number/)|Easy|
@@ -104,6 +104,9 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one//) |[Python](./algorithms/python/66_plus_one//plus_one.py)|Easy|数组|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/)|Easy|
+
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Python](./algorithms/python/48_rotate_image/rotate_image.py)|Medium|
+
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/), [Python](./algorithms/python/35_search_insert_position/)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
