@@ -39,7 +39,7 @@
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/), [Python](./algorithms/python/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.py)|Easy|数组|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/), [Python](./algorithms/python/349_intersection_of_two_arrays/intersection_of_two_arrays.py)|Easy|数组|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/344_reverse_string/)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/344_reverse_string/), [Python](./algorithms/python/344_reverse_string/reverse_string.py)|Easy|字符串|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./algorithms/python/328_odd_even_linked_list/odd_even_linked_list.py)|Medium| 单链表 |
