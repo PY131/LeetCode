@@ -34,7 +34,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./algorithms/cpp/404_sum_of_left_leaves/)|Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [C++](./algorithms/cpp/401_binary_watch/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/389_find_the_difference/)|Easy|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/387_first_unique_character_in_a_string/)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/387_first_unique_character_in_a_string/), [Python](./algorithms/python/387_first_unique_character_in_a_string/first_unique_character_in_a_string.py)|Easy|字符串|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/383_ransom_note/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/), [Python](./algorithms/python/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.py)|Easy|数组|
