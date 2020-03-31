@@ -56,8 +56,9 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./algorithms/cpp/258_add_digits/)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257_binary_tree_paths/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./algorithms/cpp/242_valid_anagram/)|Easy|
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./algorithms/cpp/237_delete_node_in_a_linked_list/)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C++](./algorithms/cpp/237_delete_node_in_a_linked_list/), [Python](./algorithms/python/237_delete_node_in_a_linked_list/delete_node_in_a_linked_list.py)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235_lowest_common_ancestor_of_a_binary_search_tree/)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./algorithms/python/234_palindrome_linked_list/palindrome_linked_list.py)|Easy|链表|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./algorithms/java/231_power_of_two/)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/)|Medium|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./algorithms/python/227_basic_calculator_ii/basic_calculator_ii.py)|Medium|
@@ -80,8 +81,8 @@
 |152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/)|Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/)|Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/141_linked_list_cycle/)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/), [Python](./algorithms/python/142_linked_list_cycle_ii/linked_list_cycle_ii.py)|Medium|链表|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/141_linked_list_cycle/), [Python](./algorithms/python/141_linked_list_cycle/linked_list_cycle.py)|Easy|链表|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](./algorithms/python/137_single_number_ii/single_number_ii.py)|Medium|数组, 位运算|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/), [Python](./algorithms/python/136_single_number/single_number.py)|Easy|数组,  位运算|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/python/125_valid_palindrome/valid_palindrome.py)|Easy|字符串|
