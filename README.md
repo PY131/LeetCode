@@ -95,7 +95,8 @@
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/cpp/108_convert_sorted_array_to_binary_search_tree/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](./algorithms/java/107_binary_tree_level_order_traversal_II/)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/cpp/104_maximum_depth_of_binary_tree/), [Python](./algorithms/python/104_maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.py)|Easy|二叉树|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102_binary_tree_level_order_traversal/)|Medium|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102_binary_tree_level_order_traversal/), [Python](./algorithms/python/102_binary_tree_level_order_traversal/binary_tree_level_order_traversal.py)|Medium|二叉树|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./algorithms/python/101_symmetric_tree/symmetric_tree.py)|Easy|二叉树|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/cpp/100_same_tree/)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./algorithms/python/98_validate_binary_search_tree/validate_binary_search_tree.py)|Medium|二叉树|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](./algorithms/java/96_unique_binary_search_trees/), [Python](./algorithms/python/96_unique_binary_search_trees/unique_binary_search_trees.py/)|Medium|
