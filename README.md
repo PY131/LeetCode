@@ -72,6 +72,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/python/203_remove_linked_list_elements/remove_linked_list_elements.py)|Easy| 单链表 |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/198_house_robber/house_robber.py)|Easy|动态规划|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/python/189_rotate_array/rotate_array.py)|Easy|数组|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
@@ -106,11 +107,11 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[Python](./algorithms/python/88_merge_sorted_array/merge_sorted_array.py)|Easy|数组|
 |86|[Partition List](https://leetcode.com/problems/partition-list/) |[Python](./algorithms/python/86_partition_list/partition_list.py)|Medium|单链表|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|单链表|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/), [Python](/algorithms/python/70_climbing_stairs/climbing_stairs.py)|Easy|动态规划|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one//) |[Python](./algorithms/python/66_plus_one//plus_one.py)|Easy|数组|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/), [Python](./algorithms/python/53_maximum_subarray/maximum_subarray.py)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Python](./algorithms/python/48_rotate_image/rotate_image.py)|Medium|数组|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/), [Python](./algorithms/python/35_search_insert_position/)|Easy|
