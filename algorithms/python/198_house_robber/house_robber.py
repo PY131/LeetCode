@@ -32,7 +32,7 @@ class Solution(object):
             tmp = max(dp_1, dp_2 + val)
             dp_2 = dp_1
             dp_1 = tmp
-        return dp_1 
+        return dp_1
 
 if __name__ == "__main__":
     so = Solution()
