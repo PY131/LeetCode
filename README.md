@@ -29,7 +29,7 @@
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./algorithms/java/437_path_sum_III/)|Easy|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/419_battleships_in_a_board/)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/412_fizz_buzz/), [Java](./algorithms/java/412_fizz_buzz/)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/412_fizz_buzz/), [Java](./algorithms/java/412_fizz_buzz/), [Python](./algorithms/python/412_fizz_buzz/fizz_buzz.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/409_longest_palindrome/)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./algorithms/cpp/405_convert_a_number_to_hexadecimal/), [Python](./algorithms/python/405_convert_a_number_to_hexadecimal/convert_a_number_to_hexadecimal.py)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./algorithms/cpp/404_sum_of_left_leaves/)|Easy|
@@ -70,7 +70,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/215_kth_largest_element_in_an_array/215_kth_largest_element_in_an_array.cpp)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209_minimum_size_subarray_sum/)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/), [Python](./algorithms/python/206_reverse_linked_list/reverse_linked_list.py)|Easy| 单链表 |
-|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java), [Python](./algorithms/python/204_count_primes/count_primes.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/python/203_remove_linked_list_elements/remove_linked_list_elements.py)|Easy| 单链表 |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/198_house_robber/house_robber.py)|Easy|动态规划|
