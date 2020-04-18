@@ -19,7 +19,7 @@
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [C++](./algorithms/cpp/496_next_greater_element_I/)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./algorithms/cpp/476_number_complement/)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/463_island_perimeter/)|Easy|
-|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/461_hamming_distance/), [Java](./algorithms/java/461_hamming_distance/)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./algorithms/cpp/461_hamming_distance/), [Java](./algorithms/java/461_hamming_distance/hamming_distance.py), [Python](./algorithms/python/461_hamming_distance/hamming_distance.py)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459_repeated_substring_pattern/)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/cpp/455_assign_cookies/)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [C++](./algorithms/cpp/453_minimum_moves_to_equal_array_elements/)|Easy|
@@ -45,7 +45,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./algorithms/python/328_odd_even_linked_list/odd_even_linked_list.py)|Medium| 单链表 |
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/), [Python](./algorithms/python/326_power_of_three/power_of_three.py)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/), [Python](./algorithms/python/283_move_zeroes/move_zeroes.py)|Easy|数组|
@@ -92,6 +92,8 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/python/125_valid_palindrome/valid_palindrome.py)|Easy|字符串|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/), [Python](./algorithms/python/122_best_time_to_buy_and_sell_stock_II/best_time_to_buy_and_sell_stock_ii.py)|Easy|动态规划|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/), [Java](./algorithms/java/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.java), [Python](./algorithms/python/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.py)|Easy|动态规划|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./algorithms/python/119_pascals_triangle_ii/pascals_triangle_ii.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./algorithms/python/118_pascals_triangle/pascals_triangle.py)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](./algorithms/java/113_path_sum_II/)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./algorithms/java/112_path_sum/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./algorithms/java/111_minimum_depth_of_binary_tree/)|Easy|

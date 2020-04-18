@@ -14,7 +14,7 @@ class Solution(object):
         :type n: int
         :rtype: int
         :simulate the composite number
-        :complexity: time O(n), space: O(n)
+        :complexity: time O(nlglgn), space: O(n)
         """
         flags = [1] * (n)  # init : true - prime, false - composite
         for i in range(2, n):
