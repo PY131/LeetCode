@@ -52,7 +52,7 @@
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./algorithms/java/279_perfect_squares/perfect_squares.java)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./algorithms/python/278_first_bad_version/first_bad_version.py)|Easy|二分查找|
 |271|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./algorithms/python/271_contains_duplicate/contains_duplicate.py)|Easy||
-|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/268_missing_number/)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./algorithms/cpp/268_missing_number/missing_number.cpp), [Python](./algorithms/python/268_missing_number/missing_number.py)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](./algorithms/java/264_ugly_number_II/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](./algorithms/java/263_ugly_number/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./algorithms/cpp/258_add_digits/)|Easy|
@@ -111,6 +111,7 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[Python](./algorithms/python/88_merge_sorted_array/merge_sorted_array.py)|Easy|数组|
 |86|[Partition List](https://leetcode.com/problems/partition-list/) |[Python](./algorithms/python/86_partition_list/partition_list.py)|Medium|单链表|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|单链表|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Python](./algorithms/python/73_set_matrix_zeroes//set_matrix_zeroes.py)|Medium|数组|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/), [Python](/algorithms/python/70_climbing_stairs/climbing_stairs.py)|Easy|动态规划|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one//) |[Python](./algorithms/python/66_plus_one//plus_one.py)|Easy|数组|
