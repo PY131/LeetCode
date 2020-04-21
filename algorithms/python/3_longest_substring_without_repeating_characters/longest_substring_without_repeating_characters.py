@@ -88,13 +88,32 @@ class Solution(object):
                 len_max = len_tmp        
         return len_max
 
+    def lengthOfLongestSubstring_4(self, s):
+        '''optimization of v3
+        '''
+        res = 0
+        i = j = 0
+        m = {}
+        while i < len(s) and j < len(s):
+            if s[j] in m:
+                new_i = m[s[j]] + 1
+                while i < new_i:
+                    m.pop(s[i])
+                    i += 1
+            m[s[j]] = j
+            j += 1
+            if res < j - i:
+                res = j - i
+        return res
 
 if __name__ == "__main__":
-    st = 'abcabcbb'
+    st = 'abba'
     s = Solution()
     res = s.lengthOfLongestSubstring_1(st)
     print res
     res = s.lengthOfLongestSubstring_2(st)
     print res
     res = s.lengthOfLongestSubstring_3(st)
+    print res
+    res = s.lengthOfLongestSubstring_4(st)
     print res
