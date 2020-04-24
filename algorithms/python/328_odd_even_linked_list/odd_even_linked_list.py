@@ -80,6 +80,20 @@ class Solution(object):
             new_1 = new_0.next if new_0 else None
         return head
 
+    def oddEvenList_v3(self, head):
+        '''iteratively method 2
+        '''
+        if not head: return head
+        P1 = p1 = head
+        P2 = p2 = head.next
+        while p2 and p2.next:
+            p1.next = p2.next
+            p1 = p1.next
+            p2.next = p1.next
+            p2 = p2.next
+        p1.next = P2
+        return P1
+
 if __name__ == "__main__":
 
     so = Solution()
@@ -87,6 +101,6 @@ if __name__ == "__main__":
     head = so.build_a_list(arr)
     so.display_a_list(head, prefix="before: ")
 
-    new_head = so.oddEvenList_v2(head)
+    new_head = so.oddEvenList_v3(head)
 
     so.display_a_list(new_head, prefix="after:  ")

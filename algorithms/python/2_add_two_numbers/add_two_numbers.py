@@ -37,6 +37,26 @@ class Singly_Linked_List(object):
 class Solution(object):
 
     def addTwoNumbers(self, l1, l2):
+        p1 = l1
+        p2 = l2
+        flag = 0
+        p3 = pivot = ListNode(-1)
+        while p1 or p2 or flag:
+            new_val = flag
+            if p1:
+                new_val += p1.val
+                p1 = p1.next
+            if p2:
+                new_val += p2.val
+                p2 = p2.next               
+            flag = new_val / 10
+            p3.next = ListNode(new_val % 10)
+            p3 = p3.next
+            if not p1 and not p2 and not flag:
+                break
+        return pivot.next
+
+    def addTwoNumbers_1(self, l1, l2):
         '''模拟加法进位,加到l3上
         '''
         v1 = l1
@@ -102,16 +122,15 @@ class Solution(object):
             new_node = ListNode(carry)
             v3.next = new_node
         return l3.next
-        
 
 if __name__ == "__main__":
-    a = [2,4,3]
-    b = [5,6,4]
+    a = [1,5]
+    b = [0]
     l1 = Singly_Linked_List(a)
     l2 = Singly_Linked_List(b)
     
     s = Solution()
-    res = s.addTwoNumbers_2(l1.head, l2.head)
+    res = s.addTwoNumbers(l1.head, l2.head)
     while res:
         print res.val
         res = res.next

@@ -44,6 +44,7 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/344_reverse_string/), [Python](./algorithms/python/344_reverse_string/reverse_string.py)|Easy|字符串|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./algorithms/python/334_increasing_triplet_subsequence/increasing_triplet_subsequence.py)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./algorithms/python/328_odd_even_linked_list/odd_even_linked_list.py)|Medium| 单链表 |
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/), [Python](./algorithms/python/326_power_of_three/power_of_three.py)|Easy|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
@@ -81,6 +82,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./algorithms/java/167_two_Sum_II/)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python](./algorithms/python/160_intersection_of_two_linked_lists/intersection_of_two_linked_lists.py)|Easy|链表|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python](./algorithms/python/155_min_stack/min_stack.py)|Easy||
 |152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/)|Hard|
