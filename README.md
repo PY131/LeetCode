@@ -63,7 +63,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235_lowest_common_ancestor_of_a_binary_search_tree/)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./algorithms/python/234_palindrome_linked_list/palindrome_linked_list.py)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./algorithms/java/231_power_of_two/)|Easy|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/), [Python](./algorithms/python/230_kth_smallest_element_in_a_bst/kth_smallest_element_in_a_bst.py)|Medium|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./algorithms/python/227_basic_calculator_ii/basic_calculator_ii.py)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/226_invert_binary_tree/)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](./algorithms/python/224_basic_calculator/basic_calculator.py)|Hard|
@@ -74,6 +74,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java), [Python](./algorithms/python/204_count_primes/count_primes.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/python/203_remove_linked_list_elements/remove_linked_list_elements.py)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./algorithms/python/200_number_of_islands/number_of_islands.py)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/198_house_robber/house_robber.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/python/189_rotate_array/rotate_array.py)|Easy|

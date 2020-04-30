@@ -15,6 +15,27 @@
         ]
 """
 
+class Solution_2(object):
+    # re-do on 2020-4-30
+    def generateParenthesis(self, n):
+        # idea: [lefts] + '(' + [rights] ')'
+        res = []
+        if n < 1:
+            return res
+        for i in range(0, n):
+            res_l = self.generateParenthesis(i)
+            res_r = self.generateParenthesis(n-1-i)
+            if not res_l and not res_r:
+                res.append('(' + ')')
+            if not res_l:
+                res.extend(['(' + r + ')' for r in res_r])
+            elif not res_r:
+                res.extend([l + '(' + ')' for l in res_l])
+            else:
+                for l in res_l:
+                    res.extend([l + '(' + r + ')' for r in res_r])
+        return res
+
 class Solution(object):
 
     def generateParenthesis_2(self, n):
@@ -71,12 +92,10 @@ class Solution(object):
 
 # test code
 if __name__ == '__main__':
-    s = Solution()
+    s = Solution_2()
     n = 3
     print("all possible parenthesis sequences are:")
-    lst1 = s.generateParenthesis_1(n)
-    lst2 = s.generateParenthesis_2(n)
+    lst1 = s.generateParenthesis(n)
     print(lst1)
-    print(lst2)
 
 # - PY131 - #
