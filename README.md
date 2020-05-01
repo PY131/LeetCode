@@ -117,6 +117,7 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[Python](./algorithms/python/88_merge_sorted_array/merge_sorted_array.py)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/) |[Python](./algorithms/python/86_partition_list/partition_list.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|
+|78|[Subsets](https://leetcode.com/problems/subsets/) |[Python](./algorithms/python/78_subsets/subsets.py)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Python](./algorithms/python/73_set_matrix_zeroes//set_matrix_zeroes.py)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/), [Python](/algorithms/python/70_climbing_stairs/climbing_stairs.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
@@ -125,6 +126,8 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/), [Python](./algorithms/python/53_maximum_subarray/maximum_subarray.py)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Python](./algorithms/python/49_group_anagrams/group_anagrams.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Python](./algorithms/python/48_rotate_image/rotate_image.py)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations_ii/) |[Python](./algorithms/python/47_permutations_ii/permutations_ii.py)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/) |[Python](./algorithms/python/46_permutations/permutations.py)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/), [Python](./algorithms/python/35_search_insert_position/)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
