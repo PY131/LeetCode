@@ -41,6 +41,7 @@
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/), [Python](./algorithms/python/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.py)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/), [Python](./algorithms/python/349_intersection_of_two_arrays/intersection_of_two_arrays.py)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[Python](./algorithms/python/347_topk_frequent_elements/topk_frequent_elements.py)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/344_reverse_string/), [Python](./algorithms/python/344_reverse_string/reverse_string.py)|Easy|字符串|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[Java](./algorithms/java/342_power_of_four/)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](./algorithms/java/338_counting_bits/)|Easy|
@@ -68,7 +69,7 @@
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/226_invert_binary_tree/)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](./algorithms/python/224_basic_calculator/basic_calculator.py)|Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/cpp/217_contains_duplicate/)|Easy|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/215_kth_largest_element_in_an_array/215_kth_largest_element_in_an_array.cpp)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./algorithms/cpp/215_kth_largest_element_in_an_array/215_kth_largest_element_in_an_array.cpp), [Python](./algorithms/python/215_kth_largest_element_in_an_array/kth_largest_element_in_an_array.py)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209_minimum_size_subarray_sum/)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/), [Python](./algorithms/python/206_reverse_linked_list/reverse_linked_list.py)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java), [Python](./algorithms/python/204_count_primes/count_primes.py)|Easy|
@@ -117,7 +118,9 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[Python](./algorithms/python/88_merge_sorted_array/merge_sorted_array.py)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list/) |[Python](./algorithms/python/86_partition_list/partition_list.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](./algorithms/java/83_remove_duplicates_from_sorted_list/), [Python](./algorithms/python/83_remove_duplicates_from_sorted_list/remove_duplicates_from_sorted_list.py)|Easy|
+|79|[Word Search](https://leetcode.com/problems/word-search/) |[Python](./algorithms/python/79_word_search/word_search.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/) |[Python](./algorithms/python/78_subsets/subsets.py)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/) |[Python](./algorithms/python/75_sort_colors/sort_colors.py)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Python](./algorithms/python/73_set_matrix_zeroes//set_matrix_zeroes.py)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](./algorithms/java/70_climbing_stairs/), [Python](/algorithms/python/70_climbing_stairs/climbing_stairs.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
