@@ -84,6 +84,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./algorithms/java/167_two_Sum_II/)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./algorithms/python/162_find_peak_element/find_peak_element.py)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python](./algorithms/python/160_intersection_of_two_linked_lists/intersection_of_two_linked_lists.py)|Easy|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python](./algorithms/python/155_min_stack/min_stack.py)|Easy|
 |152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
@@ -133,7 +134,8 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/) |[Python](./algorithms/python/46_permutations/permutations.py)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/), [Python](./algorithms/python/35_search_insert_position/)|Easy|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java)|Medium|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java), [Python](./algorithms/python/34_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.py)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Python](./algorithms/python/33_search_in_rotated_sorted_array/search_in_rotated_sorted_array.py)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](./algorithms/python/31_next_permutation/next_permutation.py)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./algorithms/python/28_implement_strstr/implement_strstr.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./algorithms/python/27_remove_element/remove_element.py)|Easy|
