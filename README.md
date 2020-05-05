@@ -48,7 +48,9 @@
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./algorithms/python/334_increasing_triplet_subsequence/increasing_triplet_subsequence.py)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Python](./algorithms/python/328_odd_even_linked_list/odd_even_linked_list.py)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Java](./algorithms/java/326_power_of_three/), [Python](./algorithms/python/326_power_of_three/power_of_three.py)|Easy|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./algorithms/python/322_coin_change/coin_change.py)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./algorithms/python/300_longest_increasing_subsequence/longest_increasing_subsequence.py)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/), [Python](./algorithms/python/283_move_zeroes/move_zeroes.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./algorithms/java/279_perfect_squares/perfect_squares.java)|Medium|
@@ -74,12 +76,13 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206_reverse_linked_list/), [Python](./algorithms/python/206_reverse_linked_list/reverse_linked_list.py)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [Java](./algorithms/java/204_count_primes/count_primes.java), [Python](./algorithms/python/204_count_primes/count_primes.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](./algorithms/python/203_remove_linked_list_elements/remove_linked_list_elements.py)|Easy|
-|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/cpp/202_happy_number/), [Python](./algorithms/python/202_happy_number/happy_number.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./algorithms/python/200_number_of_islands/number_of_islands.py)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/198_house_robber/house_robber.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/python/189_rotate_array/rotate_array.py)|Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
+|172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python](./algorithms/python/172_factorial_trailing_zeroes/factorial_trailing_zeroes.py)|Medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/), [Python](./algorithms/python/171_excel_sheet_column_number/excel_sheet_column_number.py) |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
@@ -127,6 +130,8 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./algorithms/java/69_sqrt_x/sqrt_x.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one//) |[Python](./algorithms/python/66_plus_one//plus_one.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](./algorithms/java/64_minimum_path_sum/minimum_path_sum.java)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[Python](./algorithms/python/62_unique_paths/unique_paths.py)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) |[Python](./algorithms/python/55_jump_game/jump_game.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./algorithms/java/53_maximum_subarray/), [Python](./algorithms/python/53_maximum_subarray/maximum_subarray.py)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Python](./algorithms/python/49_group_anagrams/group_anagrams.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Python](./algorithms/python/48_rotate_image/rotate_image.py)|Medium|
