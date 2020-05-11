@@ -38,7 +38,7 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/387_first_unique_character_in_a_string/), [Python](./algorithms/python/387_first_unique_character_in_a_string/first_unique_character_in_a_string.py)|Easy|
 |384|[Shuffle an Array](https://leetcode-cn.com/problems/shuffle-an-array/) | [Python](./algorithms/python/384_shuffle_an_array/shuffle_an_array.py)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./algorithms/cpp/383_ransom_note/)|Easy|
-|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./algorithms/cpp/371_sum_of_two_integers/sum_of_two_integers.cpp), [Python](./algorithms/python/371_sum_of_two_integers/sum_of_two_integers.py)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/350_intersection_of_two_arrays_II/), [Python](./algorithms/python/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.py)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/349_intersection_of_two_arrays/), [Python](./algorithms/python/349_intersection_of_two_arrays/intersection_of_two_arrays.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[Python](./algorithms/python/347_topk_frequent_elements/topk_frequent_elements.py)|Medium|
@@ -67,6 +67,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./algorithms/python/234_palindrome_linked_list/palindrome_linked_list.py)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](./algorithms/java/231_power_of_two/)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./algorithms/java/230_kth_smallest_element_in_a_BST/), [Python](./algorithms/python/230_kth_smallest_element_in_a_bst/kth_smallest_element_in_a_bst.py)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element_ii/) |[Python](./algorithms/python/229_majority_element_ii/majority_element_ii.py)|Medium|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./algorithms/python/227_basic_calculator_ii/basic_calculator_ii.py)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/cpp/226_invert_binary_tree/)|Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Python](./algorithms/python/224_basic_calculator/basic_calculator.py)|Hard|
@@ -84,7 +85,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python](./algorithms/python/172_factorial_trailing_zeroes/factorial_trailing_zeroes.py)|Medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/), [Python](./algorithms/python/171_excel_sheet_column_number/excel_sheet_column_number.py) |Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/cpp/169_majority_element/), [Python](./algorithms/python/169_majority_element/majority_element.py)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/cpp/168_excel_sheet_column_title/)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](./algorithms/java/167_two_Sum_II/)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./algorithms/python/162_find_peak_element/find_peak_element.py)|Medium|
