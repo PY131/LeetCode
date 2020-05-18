@@ -52,6 +52,8 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./algorithms/cpp/309_best_time_to_buy_and_sell_stock_with_cooldown/)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./algorithms/python/300_longest_increasing_subsequence/longest_increasing_subsequence.py)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./algorithms/cpp/292_nim_game/)|Easy|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./algorithms/python/289_game_of_life/game_of_life.py)|Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./algorithms/python/287_find_the_duplicate_number/find_the_duplicate_number.py)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283_move_zeroes/), [Python](./algorithms/python/283_move_zeroes/move_zeroes.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](./algorithms/java/279_perfect_squares/perfect_squares.java)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./algorithms/python/278_first_bad_version/first_bad_version.py)|Easy|
@@ -98,6 +100,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./algorithms/java/141_linked_list_cycle/), [Python](./algorithms/python/141_linked_list_cycle/linked_list_cycle.py)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](./algorithms/python/137_single_number_ii/single_number_ii.py)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/cpp/136_single_number/), [Python](./algorithms/python/136_single_number/single_number.py)|Easy|
+|128|[Valid Palindrome](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./algorithms/python/128_longest_consecutive_sequence/longest_consecutive_sequence.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./algorithms/python/125_valid_palindrome/valid_palindrome.py)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/cpp/122_best_time_to_buy_and_sell_stock_II/), [Python](./algorithms/python/122_best_time_to_buy_and_sell_stock_II/best_time_to_buy_and_sell_stock_ii.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/cpp/121_best_time_to_buy_and_sell_stock/), [Java](./algorithms/java/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.java), [Python](./algorithms/python/121_best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.py)|Easy|
@@ -138,6 +141,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Python](./algorithms/python/48_rotate_image/rotate_image.py)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations_ii/) |[Python](./algorithms/python/47_permutations_ii/permutations_ii.py)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/) |[Python](./algorithms/python/46_permutations/permutations.py)|Medium|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |[Python](./algorithms/python/41_first_missing_positive/first_missing_positive.py)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[Python](./algorithms/python/36_valid_sudoku/valid_sudoku.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./algorithms/java/35_search_insert_position/), [Python](./algorithms/python/35_search_insert_position/)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [Java](./algorithms/java/34_search_for_a_range/search_for_a_range.java), [Python](./algorithms/python/34_find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.py)|Medium|
