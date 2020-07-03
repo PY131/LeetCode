@@ -68,9 +68,65 @@ class Solution(object):
                 break
         return res
 
+    def findMedianSortedArrays_v1(self, nums1, nums2):
+        '''using merge sort
+        '''
+        m = len(nums1)
+        n = len(nums2)
+        i = 0
+        j = 0
+        tmp = []
+        while i < m and j < n:
+            if nums1[i] <= nums2[j]:
+                tmp.append(nums1[i])
+                i += 1
+            else:
+                tmp.append(nums2[j])
+                j += 1
+        while i < m:
+            tmp.append(nums1[i])
+            i += 1
+        while j < n:
+            tmp.append(nums2[j])
+            j += 1
+        if (m + n) % 2 == 1:
+            res = tmp[(m+n)/2]
+        else:
+            res = ( tmp[(m+n)/2] + tmp[(m+n-1)/2] ) / 2.0
+        return res
+    
+    def findMedianSortedArrays_v2(self, nums1, nums2):
+        '''using bin search
+        '''
+        m = len(nums1)
+        n = len(nums2)
+        if m > n:
+            nums1, nums2 = nums2, nums1
+            m, n = n, m
+        n_left = (m + n + 1) / 2
+        lo = 0
+        hi = m
+        while lo < hi:
+            i = (lo + hi + 1) / 2
+            j = n_left - i
+            if nums1[i - 1] > nums2[j]:
+                hi = i - 1
+            else:
+                lo = i
+        i = lo
+        j = n_left - lo
+        left_1 = nums1[i-1] if i > 0 else float("-inf")
+        left_2 = nums2[j-1] if j > 0 else float("-inf")
+        right_1 = nums1[i] if i < m else float("+inf")
+        right_2 = nums2[j] if j < n else float("+inf")
+        if (m + n) % 2 == 1:
+            return max(left_1, left_2)
+        else:
+            return (max(left_1, left_2) + min(right_1, right_2)) / 2.0
+
 if __name__ == "__main__":
-    nums1 = [1, 3]
+    nums1 = [1, 3, 5]
     nums2 = [2, 4]
     s = Solution()
-    res = s.findMedianSortedArrays(nums1, nums2)
+    res = s.findMedianSortedArrays_v2(nums1, nums2)
     print res
