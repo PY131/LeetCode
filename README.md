@@ -85,6 +85,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./algorithms/python/198_house_robber/house_robber.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/cpp/191_number_of_1_bits/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./algorithms/python/189_rotate_array/rotate_array.py)|Easy|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./algorithms/python/188_best_time_to_buy_and_sell_stock_iv/best_time_to_buy_and_sell_stock_iv.py)|Hard|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Java](./algorithms/java/174_dungeon_game/dungeon_game.java)|Hard|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [Python](./algorithms/python/172_factorial_trailing_zeroes/factorial_trailing_zeroes.py)|Medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/cpp/171_excel_sheet_column_number/), [Python](./algorithms/python/171_excel_sheet_column_number/excel_sheet_column_number.py) |Easy|
@@ -94,8 +95,9 @@
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./algorithms/python/162_find_peak_element/find_peak_element.py)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Python](./algorithms/python/160_intersection_of_two_linked_lists/intersection_of_two_linked_lists.py)|Easy|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/) | [Python](./algorithms/python/155_min_stack/min_stack.py)|Easy|
-|152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java)|Medium|
+|152|[Maximum Product Subarray](https://leetcode.com/submissions/detail/) | [Java](./algorithms/java/152_maximum_product_subarray/maximum_product_subarray.java), [Python](./algorithms/python/152_maximum_product_subarray/maximum_product_subarray.py)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/) | [Python](./algorithms/python/148_sort_list/sort_list.py)|Medium|
+|146|[ LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./algorithms/python/146_lru_cache/lru_cache.py)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145_binary_tree_postorder_traversal/), [Python](./algorithms/python/145_binary_tree_postorder_traversal/binary_tree_postorder_traversal.py)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144_binary_tree_preorder_traversal/), [Python](./algorithms/python/144_binary_tree_preorder_traversal/binary_tree_preorder_traversal.py)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142_linked_list_cycle_II/), [Python](./algorithms/python/142_linked_list_cycle_ii/linked_list_cycle_ii.py)|Medium|
