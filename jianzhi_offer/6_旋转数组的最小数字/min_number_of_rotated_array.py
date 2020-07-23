@@ -18,8 +18,25 @@ class Solution:
             return 0
         return help(rotateArray, 0, len(rotateArray) - 1)
 
+    def minArray(self, numbers):
+        """
+        :type numbers: List[int]
+        :rtype: int
+        """
+        lo = 0
+        hi = len(numbers) - 1
+        while lo < hi:
+            mi = (lo + hi) / 2
+            if numbers[mi] < numbers[hi]:
+                hi = mi
+            elif numbers[mi] > numbers[hi]:
+                lo = mi + 1
+            else:
+                hi -= 1
+        return numbers[lo]
+
 if __name__ == "__main__":
-    arr = [4,5,1,2,3]
+    arr = [1,2,3]
     so = Solution()
-    res = so.minNumberInRotateArray(arr)
+    res = so.minArray(arr)
     print res
