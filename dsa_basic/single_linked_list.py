@@ -17,6 +17,16 @@ class LinkedList(object):
             pre = pre.next
         return pivot.next
 
+    def build_a_list_with_nodes(self, array):
+        pivot = pre = Node(-1)
+        nodes = []
+        for val in array:
+            cur = Node(val)
+            pre.next = cur
+            pre = pre.next
+            nodes.append(cur)
+        return pivot.next, nodes
+
     def to_array(self, head):
         res = []
         p = head
@@ -126,6 +136,62 @@ class LinkedList(object):
             p2.next = p2.next.next
         return pre.next, tar
 
+    def get_intersection_node(self, headA, headB):
+        p1 = headA
+        p2 = headB
+        while p1 != p2:
+            if p1:
+                p1 = p1.next
+            else:
+                p1 = headB
+            if p2:
+                p2 = p2.next
+            else:
+                p2 = headA
+        return p1
+
+    def merge_two_sorted_lists(self, l1, l2):
+        pivot = Node(-1)
+        pre = pivot
+        p1 = l1
+        p2 = l2
+        while p1 and p2:
+            if p1.val <= p2.val:
+                pre.next = p1
+                pre = pre.next
+                p1 = p1.next
+            else:
+                pre.next = p2
+                pre = pre.next
+                p2 = p2.next
+        while p1:
+            pre.next = p1
+            pre = pre.next
+            p1 = p1.next
+        while p2:
+            pre.next = p2
+            pre = pre.next
+            p2 = p2.next
+        return pivot.next
+
+    def merge_k_sorted_lists(self, lists):
+        # using a priority queue
+        from Queue import PriorityQueue
+        PQ = PriorityQueue()
+        pivot = Node(-1)
+        pre = pivot
+        for l in lists:
+            if l:
+                PQ.put((l.val, l))
+        while PQ.qsize():
+            _, p = PQ.get()
+            pre.next = p
+            pre = pre.next
+            p = p.next
+            if p:
+                PQ.put((p.val, p))
+        return pivot.next
+
 if __name__ == "__main__":
     # generate random array list
     raw_list = []
@@ -163,8 +229,49 @@ if __name__ == "__main__":
         print "after:", L.to_array(head_new)
 
     # delete k-th node from the end
-    if True:
+    if False:
         head = L.build_a_list(raw_list)
         print "before:", L.to_array(head)
         head_new, delete_node = L.delete_kth_from_end(head, 3)
         print "after:", L.to_array(head_new)
+
+    # get intersection node
+    if False:
+        listA, listB = [], []
+        for _ in range(10):
+            listA.append(random.randint(0, 1000000))
+            listB.append(random.randint(0, 1000000))
+        headA, NodesA = L.build_a_list_with_nodes(listA)
+        headB, NodesB = L.build_a_list_with_nodes(listB)
+        # make intersection
+        NodesB[5].next = NodesA[7]
+        print "before, list A:", L.to_array(headA)
+        print "before, list B:", L.to_array(headB)
+
+        res = L.get_intersection_node(headA, headB)
+        print "intersection node is:", res.val
+
+    # merge two sorted list
+    if False:
+        l1 = [1,3,5,7,9]
+        l2 = [2,4,6,8,10]
+        h1 = L.build_a_list(l1)
+        h2 = L.build_a_list(l2)
+        print "before, list 1:", L.to_array(h1)
+        print "before, list 2:", L.to_array(h2)
+        l_new = L.merge_two_sorted_lists(h1, h2)
+        print "after merge:", L.to_array(l_new)
+
+    if True:
+        ls = [
+            [1,3,9,13,14],
+            [2,6,8,10,16],
+            [0,4,5,12],
+            [7,11,15]
+        ]
+        lists = []
+        for l in ls:
+            h = L.build_a_list(l)
+            lists.append(h)
+        l_new = L.merge_k_sorted_lists(lists)
+        print "after merge:", L.to_array(l_new)
