@@ -29,6 +29,7 @@
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](./algorithms/java/442_find_all_duplicates_in_an_array/)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./algorithms/java/437_path_sum_III/)|Easy|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./algorithms/cpp/419_battleships_in_a_board/)|Medium|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](./algorithms/python/416_partition_equal_subset_sum/partition_equal_subset_sum.py)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/415_add_strings/)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/412_fizz_buzz/), [Java](./algorithms/java/412_fizz_buzz/), [Python](./algorithms/python/412_fizz_buzz/fizz_buzz.py)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/409_longest_palindrome/)|Easy|

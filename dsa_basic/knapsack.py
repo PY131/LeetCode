@@ -76,6 +76,20 @@ class Knapsack(object):
                 dp[j] = dp[j] + dp[j - coins[i-1]]
         return dp[amount]
 
+    def can_partition(self, nums):
+        # 给定一个集合nums=[n1,n2,...]，是否可以划分为和相等的两个子集？
+        S0 = sum(nums)
+        if S0 % 2 != 0:
+            return False
+        S = S0 / 2
+        n = len(nums)
+        dp = [False] * (S + 1)
+        dp[0] = True
+        for i in range(1, n+1):
+            for j in range(S, 0, -1):
+                if nums[i-1] <= j:
+                    dp[j] = dp[j] or dp[j - nums[i-1]]
+        return dp[S]
         
 if __name__ == "__main__":
     Kp = Knapsack()
@@ -97,6 +111,9 @@ if __name__ == "__main__":
         res = Kp.coin_change(coins = [1, 2, 5], amount = 11)
         print res
 
-    if True:
+    if False:
         res = Kp.change(coins = [1, 2, 5], amount = 5)
         print res
+
+    if True:
+        print Kp.can_partition(nums=[1, 5, 11, 5])
