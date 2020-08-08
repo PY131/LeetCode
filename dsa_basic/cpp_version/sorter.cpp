@@ -1,4 +1,5 @@
 #include <iostream>
+#include <queue>
 #include "sorter.h"
 
 template <typename T>
@@ -124,4 +125,41 @@ void Sorter::show_array(std::vector<int> & array, const std::string & prefix) {
          std::cout << array[i] << ",";
     }
     std::cout << std::endl;
+}
+
+bool cmp_new(int a, int b) {
+    std::string str_ab = std::to_string(a) + std::to_string(b);
+    std::string str_ba = std::to_string(b) + std::to_string(a);
+    long ab = std::atol(str_ab.c_str());
+    long ba = std::atol(str_ba.c_str());
+    return ab > ba;
+}
+
+std::string Sorter::largest_number(std::vector<int>& nums) {
+    // 定义排序规则: ab > ba 则定义a>b，否则b>a
+    std::sort(nums.begin(), nums.end(), cmp_new);
+    std::string res = "";
+    for (auto x : nums) {
+        res += std::to_string(x);
+    }
+    return res;
+}
+
+int Sorter::kth_smallest(std::vector<std::vector<int>>& matrix, int k) {
+    // assert input legal
+    std::priority_queue<std::pair<int, std::pair<int, int>>> H;
+    std::vector<int> raw_array;
+    for (int i = 0; i < matrix.size(); i++) {
+        H.push(std::make_pair(matrix[i][0], std::make_pair(i, 0)));
+    }
+    while (--k) {
+        auto item = H.top();
+        int i = item.second.first;
+        int j = item.second.second + 1;
+        H.pop();
+        H.push(std::make_pair(matrix[i][j], std::make_pair(i, j)));
+    }
+    auto item = H.top();
+    H.pop();
+    return item.first;
 }

@@ -2,8 +2,6 @@
 #include <vector>
 #include <string>
 
-using namespace std;
-
 class Sorter {
   public:
     void bubble_sort(std::vector<int> & array);
@@ -12,6 +10,9 @@ class Sorter {
     void heap_sort(std::vector<int> & array);
 
     void show_array(std::vector<int> & array, const std::string & prefix);
+
+    std::string largest_number(std::vector<int>& nums);
+    int kth_smallest(std::vector<std::vector<int>>& matrix, int k);
 
   private:
     void quick_sort(std::vector<int> & array, int lo, int hi);

@@ -14,9 +14,9 @@ struct ListNode {
 };
 
 class SingleLinkList {
-
   public:
     ListNode * build_a_list(std::vector<int> array);
     void display_a_list(ListNode * head);
     ListNode * revert(ListNode * head);
+    ListNode * delete_back_kth_node(ListNode * head, int k);
 };

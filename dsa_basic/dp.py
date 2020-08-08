@@ -55,7 +55,7 @@ if __name__ == "__main__":
         print "the %sth nnumber of fibonacci array is:%s" % (N, DP.fibonacci(N))
 
     # max sum of continuous sub array
-    if False:
+    if True:
         nums = [-2,1,-3,4,-1,2,1,-5,4]
         print DP.max_sum_of_subarray(nums)
 
