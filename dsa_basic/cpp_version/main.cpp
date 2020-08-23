@@ -43,28 +43,42 @@ void display_array(std::vector<int> &arr) {
 }
 
 void about_binary_tree() {
-    std::vector<int> pres = {1,2,4,3,5,7,8,6};
-    std::vector<int> ins = {4,2,1,7,5,8,3,6};
     BTree BT;
+    // std::vector<int> pres = {1,2,4,3,5,7,8,6};
+    // std::vector<int> ins = {4,2,1,7,5,8,3,6};
+    // TreeNode * root = BT.rebuild_a_tree(pres, ins);
+    // std::vector<int> traversal_res;
+
+    // traversal_res = BT.preorder(root);
+    // display_array(traversal_res);
+    // traversal_res = BT.preorder_iteratively(root);
+    // display_array(traversal_res);
+
+    // traversal_res = BT.inorder_iteratively(root);
+    // display_array(traversal_res);
+
+    // traversal_res = BT.postorder_iteratively(root);
+    // display_array(traversal_res);
+
+    // traversal_res = BT.level(root);
+    // display_array(traversal_res);
+
+    // traversal_res = BT.level_snake(root);
+    // display_array(traversal_res);
+
+    std::vector<int> pres = {5,3,2,4,7,6,8};
+    std::vector<int> ins = {2,3,4,5,6,7,8};
     TreeNode * root = BT.rebuild_a_tree(pres, ins);
-    std::vector<int> traversal_res;
+    // int kth = BT.kth_node(root, 3);
+    // std::cout << kth << std::endl;
 
-    traversal_res = BT.preorder(root);
-    display_array(traversal_res);
-    traversal_res = BT.preorder_iteratively(root);
-    display_array(traversal_res);
-
-    traversal_res = BT.inorder_iteratively(root);
-    display_array(traversal_res);
-
-    traversal_res = BT.postorder_iteratively(root);
-    display_array(traversal_res);
-
-    traversal_res = BT.level(root);
-    display_array(traversal_res);
-
-    traversal_res = BT.level_snake(root);
-    display_array(traversal_res);
+    std::vector<std::vector<int>> res = BT.find_path_with_sum(root, 12);
+    for (auto & vec: res) {
+        for (auto x: vec) {
+            std::cout << x << ",";
+        }
+        std::cout << std::endl;
+    }
 }
 
 void about_dp() {
@@ -88,9 +102,9 @@ void about_array_and_string() {
     // std::vector<int> res = AS.twoSum(nums, 9);
     // display_array(res);
 
-    std::vector<int> nums1 = {1,3};
-    std::vector<int> nums2 = {2};
-    std::cout << findMedianSortedArrays(nums1, nums2) << std::endl;
+    std::vector<int> nums1 = {0};
+    std::vector<int> nums2 = {2,4};
+    std::cout << AS.findMedianSortedArrays(nums1, nums2) << std::endl;
 }
 
 int main() {
@@ -98,8 +112,8 @@ int main() {
 
     // about_sort();
     // about_single_linked_list();
-    // about_binary_tree();
+    about_binary_tree();
     // about_dp();
     // about_math();
-    about_array_and_string();
+    // about_array_and_string();
 }

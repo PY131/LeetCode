@@ -152,3 +152,43 @@ std::vector<int> BTree::level_snake(TreeNode * root) {
     }
     return res;
 }
+
+void find_in_pre_traversal(TreeNode * root, std::vector<int> &pres, int k) {
+    if (root) {
+        find_in_pre_traversal(root->left, pres, k);
+        pres.push_back(root->val);
+        if (pres.size() == k) {
+            return;
+        } 
+        find_in_pre_traversal(root->right, pres, k);
+    }
+}
+
+int BTree::kth_node(TreeNode * root, int k) {
+    std::vector<int> pres;
+    find_in_pre_traversal(root, pres, k);
+    return pres[k - 1];
+}
+
+void find_path_with_sum_dfs(TreeNode * root, int sum, std::vector<std::vector<int>> &res, std::vector<int> &tmp) {
+    if (root == nullptr) {
+        return;
+    }
+    tmp.push_back(root->val);
+    if (root->val == sum && root->left == nullptr && root->right == nullptr) {
+        std::vector<int> new_tmp(tmp.begin(), tmp.end());;
+        res.push_back(new_tmp);
+    } else {
+        find_path_with_sum_dfs(root->left, sum - root->val, res, tmp);
+        find_path_with_sum_dfs(root->right, sum - root->val, res, tmp);
+    }
+    tmp.pop_back();
+    return;
+}
+
+std::vector<std::vector<int>> BTree::find_path_with_sum(TreeNode * root, int sum) {
+    std::vector<std::vector<int>> res;
+    std::vector<int> tmp;
+    find_path_with_sum_dfs(root, sum, res, tmp);
+    return res;
+}
